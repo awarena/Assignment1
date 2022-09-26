@@ -1,1 +1,10 @@
 /* custom css goes here */
+
+/* Home/Index page start */
+#welcome_msg {
+    text-align: center;
+}
+#mission_statement{
+    text-align: center;
+}
+/* Home/Index page end*/
