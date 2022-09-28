@@ -16,3 +16,14 @@
 #resume_file{
     text-align: center;
 }
+/* About page end */
+
+/* Projects page start */
+#title{
+    text-align: center;
+    font-weight: bold;
+}
+.projectTitle{
+    padding-top: 20px;
+}
+/* Projects page end */
