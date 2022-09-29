@@ -29,4 +29,7 @@
 /* Projects page end */
 
 /* Services page start */
+input, label{
+    width: 90%;
+}
 /* Services page end */
